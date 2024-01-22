@@ -13,6 +13,20 @@
 
 - 📫 How to reach me **nikhilgour513@gmail.com**
 
+  <h2>🛠 Skills</h2>
+  
+  <p><strong>Languages:</strong> C++, Dart, C</p>
+  
+  <p><strong>Front-End:</strong> Flutter, Flutterflow, HTML, CSS</p>
+  
+  <p><strong>Back-End:</strong> API, MySQL, (Firebase & Appwrite as BaaS), Node.js</p>
+  
+  <p><strong>Architectural patterns:</strong> MVVM & Clean Architecture</p>
+  
+  <p><strong>Others:</strong> Wordpress, Figma, Canva</p>
+  
+  <p><strong>Tools:</strong> VS Code, Android Studio, GIT</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://linkedin.com/in/nikhil-gour-55737b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/nikhil-gour-55737b229" height="30" width="40" /></a>
