@@ -17,13 +17,11 @@
   
   <p><strong>Languages:</strong> C++, Dart, C</p>
   
-  <p><strong>Front-End:</strong> Flutter, Flutterflow, HTML, CSS</p>
+  <p><strong>Front-End:</strong> Flutter, Flutterflow </p>
   
-  <p><strong>Back-End:</strong> API, MySQL, (Firebase & Appwrite as BaaS), Node.js</p>
+  <p><strong>Back-End:</strong> API, MySQL, Firebase , Node.js</p>
   
   <p><strong>Architectural patterns:</strong> MVVM & Clean Architecture</p>
-  
-  <p><strong>Others:</strong> Wordpress, Figma, Canva</p>
   
   <p><strong>Tools:</strong> VS Code, Android Studio, GIT</p>
 
