@@ -5,7 +5,7 @@
 
 - 👋🏻 Hello, I'm a **Flutter developer specializing in Android and iOS app development.**
 
-- 👯 I’m looking to collaborate on **Flutter, Dart, Firebase, Nodejs projects**
+- 👯 I’m looking to collaborate on **Flutter, Dart, Firebase, projects**
 
 - 💪 Actively enhancing **proficiency in Data Structures and Algorithms (DSA) alongside honing skills in Flutter Development**
 
