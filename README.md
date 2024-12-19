@@ -19,11 +19,11 @@
   
   <p><strong>Front-End:</strong> Flutter, Flutterflow </p>
   
-  <p><strong>Back-End:</strong> API, MySQL, Firebase , Node.js</p>
+  <p><strong>Back-End:</strong> API, MySQL, Firebase </p>
   
-  <p><strong>Architectural patterns:</strong> MVVM & Clean Architecture</p>
+ 
   
-  <p><strong>Tools:</strong> VS Code, Android Studio, GIT</p>
+  <p><strong>Tools:</strong> VS Code, Android Studio</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
