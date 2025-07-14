@@ -97,7 +97,7 @@
 
 ### 📫 How to reach me  
 📧 **Email**: nikhilgour513@gmail.com  
-🌐 **Portfolio**: *Coming Soon*  
+🌐 **Portfolio**: https://nikhilgour.github.io/nikhil-portfolio/  
 
 ---
 
